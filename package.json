@@ -16,7 +16,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/toyatech/json-schema-form.git"
-  }
+  },
   "author": "Dusty Little <dlittle@toyatech.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
 }
