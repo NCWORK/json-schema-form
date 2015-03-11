@@ -1,0 +1,26 @@
+{
+  "name": "json-schema-form",
+  "version": "0.0.0",
+  "authors": [
+    "Dusty Little <dlittle@toyatech.net>"
+  ],
+  "description": "Generate an HTML form from a JSON Schema.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "json",
+    "schema",
+    "html",
+    "form",
+    "generate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
